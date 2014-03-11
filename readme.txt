@@ -12,4 +12,4 @@ See the examples for more use cases, or launch notify for help.
 
 Thanks to Melba23 for StringSize and to Jonathan Bennett and the AutoIt Team.
 
-More information in http://testandset.posterous.com/notify-010-simply-notification-for-windows
+More information in http://testandset.wordpress.com/2011/11/27/notify-010-simply-notification-for-windows
